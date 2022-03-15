@@ -10,3 +10,5 @@ nota = float(input("Por favor ingresar la nota obtenida en éste programa:"))
 print("\nLa nota obtenida fue de, ",nota,", gracias por su colaboración :D")
 
 print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
+
+print("Nombre: Oscar Alejandro Luna Ordoñez       Carné: 1530622")
